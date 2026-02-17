@@ -1,17 +1,122 @@
 {
     "PFPT": {
+        "Daredevil": {
+            "Adrenaline": {
+                "Alteration": "Performing this action grants adrenaline."
+            },
+            "BreakawayAttack": {
+                "DamageLabel": "Breakaway Attack — Damage Type"
+            },
+            "ExhilaratingAthlete": {
+                "Addendum": "The distance you can move with a vertical Leap increases to 5 feet. Your distance for a horizontal Leap increases to 15 feet if your Speed is at least 15 feet, or to 20 feet if your Speed is at least 30 feet.",
+                "Note": "The DCs of your High Jumps and Long Jumps decrease by 10. This doesn't combine with other abilities that reduce those DCs."
+            },
+            "RiskyOverextension": {
+                "Label": "Risky Overextension — Add Deadly"
+            },
+            "ScramblingRetreat": {
+                "Label": "Scrambling Retreat"
+            },
+            "WeaponTwistStunt": {
+                "ModifierLabel": "Weapon Twist Stunt (Disarm Weapon)"
+            }
+        },
+        "Slayer": {
+            "ApplySpiritOil": {
+                "ReinforcedPrompt": "Is your spirit oil reinforced?"
+            },
+            "BloodseekingBlade": {
+                "BloodyFuller": {
+                    "Label": "Bloody Fuller",
+                    "Note": "If your quarry is resistant to physical damage dealt by this signature tool, you ignore an amount of that resistance equal to 1 + the number of weapon damage dice.",
+                    "Reinforced": {
+                        "ToggleLabel": "Bloody Fuller — Reinforced First Strike"
+                    }
+                },
+                "Label": "Bloodseeking Blade",
+                "SpecializedArsenal": {
+                    "Note": "If your quarry is resistant to any damage dealt by this signature tool, you ignore an amount of that resistance equal to 1 + the number of weapon damage dice.",
+                    "ToggleLabel": "Bloodseeking Blade — Specialized Arsenal"
+                }
+            },
+            "ChymistsVials": {
+                "IgnitionVial": {
+                    "Reinforced": {
+                        "ToggleLabel": "Ignition Vial — Reinforced Damage"
+                    }
+                },
+                "Label": "Chymist's Vials"
+            },
+            "ConsecratedPanoply": {
+                "HuntingSpike": {
+                    "Label": "Hunting Spike",
+                    "MaterialToggleLabel": "Hunting Spike — Material",
+                    "TraitLabel": "Hunting Spike — Trait"
+                },
+                "Label": "Consecrated Panoply",
+                "SafeguardCharms": {
+                    "Label": "Safeguard Charms",
+                    "Reinforced": {
+                        "ToggleLabel": "Safeguard Charms — Apply Reinforced Bonus"
+                    }
+                }
+            },
+            "PersonalizedGear": {
+                "PairedBloodseekerToggleLabel": "Paired Bloodseeker has the parry trait"
+            },
+            "Reinforced": {
+                "Label": "Reinforced"
+            },
+            "RepellingShield": {
+                "ToggleLabel": "Repelling Shield is raised"
+            },
+            "ShareInsight": {
+                "BloodseekingBlade": {
+                    "Note": "You ignore 3 points of the quarry's resistance to any damage you deal."
+                },
+                "ToggleLabel": "Share Insight — Defending against or targeting Slayer's quarry"
+            },
+            "ShiftingCombination": {
+                "ToggleLabel": "Shifting Combination Penalty"
+            },
+            "SlayersArsenal": {
+                "Prompt": "Select a signature tool."
+            },
+            "SpikedSurcoat": {
+                "Reinforced": {
+                    "ToggleLabel": "Spiked Surcoat — Reinforced Damage"
+                }
+            },
+            "ViciousSpike": {
+                "Note": "You deal the damage you would have dealt on a hit, treating all damage dice as if they rolled a 1. (This applies to all dice from weapon runes, spells, and special abilities, not just weapon damage dice.)"
+            },
+            "WardedMail": {
+                "FortifiedPlate": {
+                    "Reinforced": {
+                        "ToggleLabel": "Fortified Plate — Reinforced Resistance"
+                    }
+                },
+                "Label": "Warded Mail"
+            }
+        },
         "Trait": {
+            "Daredevil": "Daredevil",
             "Diacritic": "Diacritic",
-            "Invocation": "Invocation",
             "Grave": "Grave",
+            "Invocation": "Invocation",
             "Necromancer": "Necromancer",
+            "Relentless": "Relentless",
+            "Risky": "Risky",
             "Rune": "Rune",
             "Runesmith": "Runesmith",
+            "Slayer": "Slayer",
             "Thrall": "Thrall"
         },
         "TraitDescription": {
             "Diacritic": "A diacritic is a special type of rune that is not applied directly to a creature or object, but rather to another rune itself, modifying or empowering that base rune. A diacritic can never be applied by itself, and any effect that would remove or invoke the base rune always also removes or invokes the diacritic rune. A rune can have only one diacritic.",
             "Invocation": "An invocation action allows a runesmith to surge power through a rune by uttering its true name. Invocation requires you to be able to speak clearly in a strong voice and requires that you be within 30 feet of the target rune or runes unless another ability changes this. The target rune then fades away immediately after the action resolves.",
+            "Relentless": "Actions with the relentless trait are special techniques that you have trained to use on instinct. You can use any action with the relentless trait with the extra action you get from On the Hunt (in addition to one or more of your normal actions, in the case of 2– or 3–action activities with the relentless trait).",
+            "Risky": "Actions with this trait grant you adrenaline until the beginning of your next turn. You gain adrenaline at the start of the risky action (before you move or attempt any rolls) and you retain your adrenaline even if an attack or skill check associated with the risky action fails.",
             "Rune": "A runesmith doesn't cast spells, but they can apply various magical effects through runes. Runes can be applied via <strong>etching</strong> or <strong>tracing</strong>. Etched runes are applied in exploration mode and last indefinitely, while traced runes last only until the end of your next turn. Their effects, however, are the same. Several abilities refer to creatures bearing one of your runes, known as rune-bearers—this is any creature who has one of your runes applied to its body or to any gear it is holding.",
             "Thrall": "Thralls are undead creatures, but they are not minions with the summoned trait. They can't take actions, but they can be used for various abilities. Unless noted otherwise, a thrall is Small or Medium (chosen by you when you create it) and must be created in an unoccupied space. A thrall can contribute to flanking as though it were able to make melee unarmed Strikes. A thrall has 1 Hit Point, is automatically hit by attacks, and automatically fails all saving throws. A thrall is immune to bleed, death effects, disease, mental, and poison. A thrall is level −1 if an effect needs to refer to its level. Spells or abilities that create thralls have the thrall trait."
         }

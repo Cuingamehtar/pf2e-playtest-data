@@ -9,7 +9,7 @@
       "value": "<p><strong>Usage</strong> drawn on a shield</p><hr /><p>Similarity in the Dwarven words for \"wall\" and \"shield\" ensure that this angular rune, once used to shore up tunnels, can apply equally well in the heat of battle. A shield bearing this rune increases its circumstance bonus to AC by 1.</p><p>@UUID[Compendium.pf2e-playtest-data.impossible-playtest-effects.Item.gBwMb0QqrBJVzyYc]{Effect: Holtrik, Rune of Dwarven Ramparts}</p><p><strong>Invocation</strong> You call the shield to its rightful place. You Raise the Shield bearing the rune, as if the rune-bearer had used Raise a Shield, and the shield retains the increased bonus to AC until the beginning of the creature's next turn.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "holtrik-rune-of-dwarven-ramparts",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -93,9 +93,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!azxAqh6vmhgK2dzR"
 }

@@ -9,7 +9,7 @@
       "value": "<p>You can manipulate the muscles and joints of your foes to delay their movements. You learn the @UUID[Compendium.pf2e-playtest-data.impossible-playtest-spells.Item.PZZzRvu4TJzU7fay] grave spell.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "dead-weight",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": "Item.SKzpRUwLCOxYw8TP",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!SKzpRUwLCOxYw8TP"
 }

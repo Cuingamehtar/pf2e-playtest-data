@@ -9,7 +9,7 @@
       "value": "<p><strong>Frequency</strong> once per round</p><hr /><p>Your runes call you to better attend to your art. Stride twice. If you end your movement within reach of a creature that is bearing one of your runes, you can @UUID[Compendium.pf2e-playtest-data.impossible-playtest-actions.Item.wamCImlN6xwUHzyk]{Trace a Rune} upon any creature adjacent to you (even a different creature). You can use Artist's Attendance while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "artists-attendance",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -64,9 +64,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!Bo0y8wHY6AwbCGVr"
 }

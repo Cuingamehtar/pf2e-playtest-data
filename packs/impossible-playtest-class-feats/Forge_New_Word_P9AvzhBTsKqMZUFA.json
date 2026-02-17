@@ -9,7 +9,7 @@
       "value": "<p>At the pinnacle of your art, you have forged a new great rune of power, a new ideal expression or utterance to be added to the craft. You create a rune and add it to your runic repertoire. Name the rune. This rune has the effects of any one spell that is common (or to which you otherwise have access), of 4th rank or lower, and that costs no more than 2 actions to cast. This rune has the unique trait and a magical trait of your choosing, and its usage matches the target of the base spell (for instance, a spell that would target a creature can be drawn on a creature).</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "forge-new-word",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!P9AvzhBTsKqMZUFA"
 }

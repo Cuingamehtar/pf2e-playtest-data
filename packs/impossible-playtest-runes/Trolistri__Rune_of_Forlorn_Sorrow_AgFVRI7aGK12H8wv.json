@@ -9,7 +9,7 @@
       "value": "<p><strong>Usage</strong> etched onto armor or a creature</p><hr /><p>This rune calls to mind the forlorn nature of elves, and the beauty within it. While this rune is beautiful, sorrow is best admired from a distance, discouraging approach. Enemies within 20 feet of the rune-bearer treat all squares between them and the rune-bearer as difficult terrain.</p><p><strong>Invocation</strong> Sorrow blots out the capacity for any other action. Each enemy within 20 feet of the rune-bearer must succeed at a @Check[will|against:runesmith] saving throw or be @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 1} as it spends the first action of its next turn sobbing (or @UUID[Compendium.pf2e.conditionitems.Item.xYTAsEpcJE1Ccni3]{Slowed 2} on a critical failure). Regardless of the outcome, the creature is then temporarily immune to this invocation for 1 hour.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "trolistri-rune-of-forlorn-sorrow",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -95,9 +95,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!AgFVRI7aGK12H8wv"
 }

@@ -9,7 +9,7 @@
       "value": "<p>You call forth a lumbering mass of fleshy limbs. You learn the @UUID[Compendium.pf2e-playtest-data.impossible-playtest-spells.Item.Wn6Tz08BoxZAwMzU]{necrotic bomb} grave spell.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "necrotic-bomb",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": "Item.LB4KWZ0lTBNFOsFi",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!LB4KWZ0lTBNFOsFi"
 }

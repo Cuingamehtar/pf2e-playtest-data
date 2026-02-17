@@ -9,7 +9,7 @@
       "value": "<p><strong>Frequency</strong> once per hour</p><p><strong>Requirements</strong> You must know the target's name.</p><hr /><p>In a moment of inspiration, you understand the target perfectly, allowing you to craft a rune that draws effects to the target by their very name. Attempt a @Check[crafting] check against a standard DC of the target creature's level. Regardless of the outcome, you cannot attempt to use By Your Name against the target again for 24 hours.</p><hr /><p><strong>Critical Success</strong> You understand the target's true name, which you add temporarily to your runic repertoire as a special diacritic rune. This diacritic rune magnifies the effects of the base rune when targeting the creature whose true name the rune represents. When invoked, the target takes a –2 circumstance penalty on their saving throw against the effects of the base rune. Additionally, if the base rune deals damage, it gains a status bonus to its damage equal to half your level. The inspiration used to understand this diacritic rune fades quickly, and you forget how to use the diacritic rune after 1 minute.</p><p><strong>Success</strong> As critical success, but a –1 penalty and the rune doesn't magnify damage.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "by-your-name",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -64,9 +64,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!UHOyxQo9seEvYajW"
 }

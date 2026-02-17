@@ -95,9 +95,10 @@
   "_stats": {
     "compendiumSource": "Item.RbdZSnIv9c7MwB4p",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "6.7.2",
+    "exportSource": null
   },
   "_key": "!items!RbdZSnIv9c7MwB4p"
 }

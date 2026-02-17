@@ -9,7 +9,7 @@
       "value": "<p>You wield the necromantic arts with greater finesse. Your proficiency ranks for spell attack modifier and spell DC increase to expert.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "expert-necromancy",
     "_migration": {
       "version": 0.935,
       "lastMigration": null
@@ -62,9 +62,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!SpqBAdHbP8b2mdIk"
 }

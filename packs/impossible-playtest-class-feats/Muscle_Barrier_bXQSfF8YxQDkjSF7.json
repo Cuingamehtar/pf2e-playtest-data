@@ -9,7 +9,7 @@
       "value": "<p>You create an extra-thick layer of muscle to protect your target. You learn the @UUID[Compendium.pf2e-playtest-data.impossible-playtest-spells.Item.OKHzvgfvdR3qqiqR] grave spell.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "muscle-barrier",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": "Item.bXQSfF8YxQDkjSF7",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!bXQSfF8YxQDkjSF7"
 }

@@ -9,7 +9,7 @@
       "value": "<p><strong>Frequency</strong> once per day</p><p><strong>Trigger</strong> You would be reduced to 0 Hit Points but not immediately killed.</p><hr /><p>You avoid being knocked out and remain at 1 Hit Point. Each living creature in a @Template[type:emanation|distance:60] must attempt a @Check[fortitude|against:class-spell] saving throw. You regain Hit Points equal to half the total damage dealt.</p><hr /><p><strong>Critical Success</strong> The target is unaffected.</p><p><strong>Success</strong> The target takes void damage equal to half its level.</p><p><strong>Failure</strong> The target takes void damage equal to its level.</p><p><strong>Critical Failure</strong> The target takes void damage equal to double its level.</p><hr /><p><em>Note: A DC was not provided for this ability by Paizo. Here we have used the better of your class or spell DC.</em></p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "desperate-revival",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -66,9 +66,10 @@
   "_stats": {
     "compendiumSource": "Item.IZXDGI6xI6R3AVq5",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!IZXDGI6xI6R3AVq5"
 }

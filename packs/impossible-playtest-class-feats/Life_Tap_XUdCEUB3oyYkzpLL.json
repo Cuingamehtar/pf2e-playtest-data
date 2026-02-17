@@ -9,7 +9,7 @@
       "value": "<p>The life force of your enemies is yours to take. You learn the @UUID[Compendium.pf2e-playtest-data.impossible-playtest-spells.Item.YVfodQvT43gaxoC1] grave spell.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "life-tap",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": "Item.XUdCEUB3oyYkzpLL",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!XUdCEUB3oyYkzpLL"
 }

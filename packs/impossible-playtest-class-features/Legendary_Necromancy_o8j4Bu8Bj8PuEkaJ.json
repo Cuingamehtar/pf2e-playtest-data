@@ -9,7 +9,7 @@
       "value": "<p>Death in one hand, life in the other, you shape the cycles of necromancy. Your proficiency ranks for spell attack modifier and spell DC increase to legendary.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "legendary-necromancy",
     "_migration": {
       "version": 0.935,
       "lastMigration": null
@@ -62,9 +62,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!o8j4Bu8Bj8PuEkaJ"
 }

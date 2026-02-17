@@ -9,7 +9,7 @@
       "value": "<p>The souls of the dead heed your beck and call. Your proficiency ranks for spell attack modifier and spell DC increase to master.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "master-necromancy",
     "_migration": {
       "version": 0.935,
       "lastMigration": null
@@ -62,9 +62,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!Aloy9UvKBC7CkANO"
 }

@@ -32,7 +32,7 @@
         }
       }
     ],
-    "slug": null,
+    "slug": "effect-pluuna-rune-of-illumination",
     "_migration": {
       "version": 0.935,
       "lastMigration": null
@@ -77,9 +77,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_id": "tuGYsi4iaULsHsbf",
   "sort": 800000,

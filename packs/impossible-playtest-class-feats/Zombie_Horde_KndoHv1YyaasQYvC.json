@@ -9,7 +9,7 @@
       "value": "<p>You raise what seems like an endless torrent of walking corpses. You learn the @UUID[Compendium.pf2e-playtest-data.impossible-playtest-spells.Item.doPpr7F3E4c4v9Bt] grave spell.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "zombie-horde",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": "Item.KndoHv1YyaasQYvC",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!KndoHv1YyaasQYvC"
 }

@@ -9,7 +9,7 @@
       "value": "<p><strong>Usage</strong> drawn on a creature</p><hr /><p>This circular mark is meant to allow travelers to always find their way home. The target gains a +15-foot status bonus to their Speeds, but only when their movement would end closer to you than they started their turn.</p><p>@UUID[Compendium.pf2e-playtest-data.impossible-playtest-effects.Item.RE2etiUSVzVOfJOc]{Effect: Zohk, Rune of Homecoming}</p><p><strong>Invocation</strong> (teleportation) You call the rune-bearer to your side. You teleport the target to any unoccupied square adjacent to you. If the bearer is unwilling, they can attempt a @Check[will] save to negate the effect.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "zohk-rune-of-homecoming",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -92,9 +92,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!dy2PWy8R42gxpnzt"
 }

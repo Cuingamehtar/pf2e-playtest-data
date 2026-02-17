@@ -9,7 +9,7 @@
       "value": "<p>As you lash out, your weapon is your brush, wounds forming words of power in your target's flesh. You Invoke a Rune on a melee weapon you are wielding and Strike with the weapon. On a hit, you can Step and Strike again with the same weapon. If the second Strike hits, you Trace a Rune onto the target of the Strike. Both attacks counts toward your multiple attack penalty, but you do not increase your penalty until you have made all your attacks.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "dance-of-bloody-ink",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!eAcqckZHux2wFOuW"
 }

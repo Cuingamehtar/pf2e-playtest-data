@@ -9,7 +9,7 @@
       "value": "<p><strong>Frequency</strong> once per round</p><hr /><p>You whisper an invocation over an arrow or sling bullet as you fire it, and the hissing of the missile through the air sounds just like your murmured voice. If your next action is a successful ranged Strike using physical ammunition against a target within the first range increment of your weapon, you also invoke all the runes on the target as the missile's whispering sets off the runes. If the Strike was a critical success, the target takes a –1 circumstance penalty on any saving throws against the runes invoked by your Remote Detonation.</p><p>@UUID[Compendium.pf2e-playtest-data.impossible-playtest-effects.Item.DV6jJNz0hnldIYNQ]{Effect: Remote Detonation}</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "remote-detonation",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -65,9 +65,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!EArC1mxaneUs1Pzr"
 }

@@ -9,7 +9,7 @@
       "value": "<p><strong>Usage</strong> drawn on a piercing or slashing weapon or unarmed Strike</p><hr /><p>This serrated rune, when placed on a blade, ensures it will never go dull. On a successful Strike, the weapon deals an additional 2 persistent bleed damage per weapon damage die.</p><p>@UUID[Compendium.pf2e-playtest-data.impossible-playtest-effects.Item.Bq9YEJ6OvXHgE8j4]{Effect: Esvadir, Rune of Whetstones}</p><p><strong>Invocation</strong> The essence of sharpness is released outwards from the rune, dealing @Damage[(2*(ceil(@actor.level / 2)))d6[slashing]] damage to a creature adjacent to the rune-bearer, with a @Check[fortitude|basic|against:runesmith] save.</p><hr /><p><strong>Level (+2)</strong> The damage of the invocation increases by 2d6.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "esvadir-rune-of-whetstones",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -92,9 +92,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!Eu4ud1MsMIhy24CR"
 }

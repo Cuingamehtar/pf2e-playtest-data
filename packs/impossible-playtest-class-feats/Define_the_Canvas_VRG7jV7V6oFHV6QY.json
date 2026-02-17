@@ -9,7 +9,7 @@
       "value": "<p><strong>Frequency</strong> once per 10 minutes</p><hr /><p>You produce four rune-inscribed stones, which whirl in the air once before darting away to the perimeter of a @Template[type:burst|distance:20] centered on your square. While you are within the canvas, you can trace a rune directly into the ground, which causes the rune to expand across the entire space, tracing it onto however many creatures on the canvas you choose. The canvas lasts for 1 minute.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "define-the-canvas",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -64,9 +64,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!VRG7jV7V6oFHV6QY"
 }

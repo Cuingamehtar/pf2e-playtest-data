@@ -27,7 +27,6 @@
       "tint": "#ffffff",
       "alphaThreshold": 0.75
     },
-    "hexagonalShape": 0,
     "lockRotation": false,
     "rotation": 0,
     "alpha": 1,
@@ -90,7 +89,14 @@
         "texture": "modules/pf2e-playtest-data/assets/subjects/necromancer_thrall_07.webp"
       }
     },
-    "randomImg": false
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
   },
   "name": "Living Graveyard",
   "type": "npc",
@@ -103,17 +109,17 @@
         "max": 400,
         "details": ""
       },
-      "speed": {
-        "value": 60,
-        "otherSpeeds": [],
-        "details": ""
-      },
       "ac": {
         "value": 0,
         "details": ""
       },
       "allSaves": {
         "value": ""
+      },
+      "speed": {
+        "value": 60,
+        "otherSpeeds": [],
+        "details": ""
       },
       "immunities": [
         {
@@ -275,9 +281,10 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.351",
         "systemId": "pf2e",
-        "systemVersion": "6.8.1"
+        "systemVersion": "6.8.1",
+        "exportSource": null
       },
       "_key": "!actors.items!CN6TMEeEd0Wmvkct.YWrK36KFQZp3cKYU"
     },
@@ -331,9 +338,10 @@
       "_stats": {
         "compendiumSource": "Actor.v8TB6wZAXx90fHu7.Item.JbFXW4ACd8AyV07N",
         "duplicateSource": "Actor.v8TB6wZAXx90fHu7.Item.JbFXW4ACd8AyV07N",
-        "coreVersion": "12.331",
+        "coreVersion": "13.351",
         "systemId": "pf2e",
-        "systemVersion": "6.7.2"
+        "systemVersion": "6.7.2",
+        "exportSource": null
       },
       "_key": "!actors.items!CN6TMEeEd0Wmvkct.JbFXW4ACd8AyV07N"
     },
@@ -387,9 +395,10 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.351",
         "systemId": "pf2e",
-        "systemVersion": "6.7.2"
+        "systemVersion": "6.7.2",
+        "exportSource": null
       },
       "_key": "!actors.items!CN6TMEeEd0Wmvkct.7HwQ9fClhAteXl5f"
     }
@@ -399,9 +408,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "6.7.2",
+    "exportSource": null
   },
   "ownership": {
     "default": 0,

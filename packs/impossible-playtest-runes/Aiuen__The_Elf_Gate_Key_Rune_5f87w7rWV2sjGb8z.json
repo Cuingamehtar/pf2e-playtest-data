@@ -9,7 +9,7 @@
       "value": "<p><strong>Usage</strong> drawn on a creature</p><hr /><p>This masterful circular rune is key to the <em>aiudara</em> network of elf gates that stretch across the stars. Once per turn, when the rune-bearer takes a Stride action, they can instead teleport a distance equal to their Speed.</p><p><strong>Invocation</strong> You teleport the rune-bearer to a location adjacent to any of your other runes, as long as it is on the same plane. An unwilling target can attempt a @Check[will|against:runesmith] save to resist this teleportation.</p><hr /><p><strong>Special</strong> If you have the ability to cast the @UUID[Compendium.pf2e.spells-srd.Item.AUctDF2fqPZN2w4W]{Sigil} cantrip, then you can use aiuen's invocation to teleport the rune bearer to a location adjacent to any of your sigils on the same plane, in addition to any of your runes.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "aiuen-the-elf-gate-key-rune",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -94,9 +94,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!5f87w7rWV2sjGb8z"
 }

@@ -9,7 +9,7 @@
       "value": "<p><strong>Usage</strong> drawn on a creature</p><hr /><p>A ring of dotted circles, this rune allows a creature marked with it to see all. The target is affected by @UUID[Compendium.pf2e.spells-srd.Item.jwK43yKsHTkJQvQ9]{<em>see the unseen</em>} and gains all-around vision, which prevents it from being flanked.</p><p>@UUID[Compendium.pf2e-playtest-data.impossible-playtest-effects.Item.uSvACOQ3Ib7d311G]{Effect: Ichelsu, Rune of Observation}</p><p><strong>Invocation</strong> The eyes of the rune fly outwards, attaching to all creatures in a 20-foot emanation. Each of these creatures that was @UUID[Compendium.pf2e.conditionitems.Item.zJxUflt9np0q4yML]{Invisible} becomes @UUID[Compendium.pf2e.conditionitems.Item.DmAIPqOBomZ7H95W]{Concealed} instead, and each one that was concealed for any other reason is no longer concealed. This effect lasts for 2 rounds.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "ichelsu-rune-of-observation",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -92,9 +92,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!cO1zNpHbEZiSphNp"
 }

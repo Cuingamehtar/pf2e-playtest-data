@@ -9,7 +9,7 @@
       "value": "<p>You can @Compendium[pf2e.actionspf2e.Recall Knowledge]{Recall Knowledge} on living creatures with an internal or external skeleton using Undead Lore. If you do, you can learn only information pertaining to the biology of a creature—you cannot learn information about any learned abilities or abilities granted by items. Additionally, you can perform a forensic examination on a corpse using Undead Lore instead of Medicine if the corpse came from a creature with a skeleton.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "bone-speaker",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": "Item.YsRVf4A0amIC7eei",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!YsRVf4A0amIC7eei"
 }

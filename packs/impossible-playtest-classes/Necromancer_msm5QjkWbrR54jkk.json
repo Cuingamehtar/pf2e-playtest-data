@@ -8,7 +8,7 @@
       "value": "<p>Death is as common as life, if not more so. Despite this, death and decay are considered subjects of the macabre, and those willing to dive headfirst into the fascinations they invoke are necromancers. These occult spellcasters seek the ever-changing borders of life and death, manipulating the energies—vitality and void—to suit their will. The undead both serve and cower before them. While a necromancer's creations are merely a mockery of life, the undead are keen to serve their creator.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "necromancer",
     "_migration": {
       "version": 0.935,
       "lastMigration": null
@@ -239,9 +239,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_id": "msm5QjkWbrR54jkk",
   "sort": 0,

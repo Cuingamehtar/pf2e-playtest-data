@@ -29,10 +29,12 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.351",
         "systemId": "pf2e",
-        "systemVersion": "6.7.2"
+        "systemVersion": "6.7.2",
+        "exportSource": null
       },
+      "category": null,
       "_key": "!journal.pages!ZjdvLAsp4jRYUkkK.igAu7sMd5J8F7WjZ"
     },
     {
@@ -63,10 +65,12 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.351",
         "systemId": "pf2e",
-        "systemVersion": "6.7.2"
+        "systemVersion": "6.7.2",
+        "exportSource": null
       },
+      "category": null,
       "_key": "!journal.pages!ZjdvLAsp4jRYUkkK.uZmNPE7d0D7L8Z9g"
     }
   ],
@@ -79,11 +83,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "6.7.2",
+    "exportSource": null
   },
   "_id": "ZjdvLAsp4jRYUkkK",
   "sort": 0,
+  "categories": [],
   "_key": "!journal!ZjdvLAsp4jRYUkkK"
 }

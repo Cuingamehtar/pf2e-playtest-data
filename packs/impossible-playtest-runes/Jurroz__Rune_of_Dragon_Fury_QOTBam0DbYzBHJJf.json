@@ -9,7 +9,7 @@
       "value": "<p><strong>Usage</strong> etched onto a creature or armor</p><hr /><p>This angular rune channels the fury of dragon kind. Whenever a creature Strikes the rune-bearer or Steals from them, draconic sanction fully focuses on them, causing them to become @UUID[Compendium.pf2e.conditionitems.Item.AJh5ex99aV6VTggg]{Off-Guard} for 1 round.</p><p><strong>Invocation</strong> As a free action, the rune-bearer can Fly up to 60 feet toward a creature that has damaged them in the last minute. If they end this movement adjacent to the creature, the creature becomes off-guard until the end of the rune-bearer's next turn. If the rune-bearer doesn't have a fly Speed and ends its movement in the air, they safely float back to the ground at the end of their next turn.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "jurroz-rune-of-dragon-fury",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -93,9 +93,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!QOTBam0DbYzBHJJf"
 }

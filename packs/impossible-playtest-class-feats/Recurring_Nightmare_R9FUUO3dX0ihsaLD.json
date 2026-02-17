@@ -9,7 +9,7 @@
       "value": "<p>You summon a lingering spirit that just won't stay dead. You learn the @UUID[Compendium.pf2e-playtest-data.impossible-playtest-spells.Item.ZVQziQ2l2vdZ5Wfr] grave spell.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "recurring-nightmare",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": "Item.R9FUUO3dX0ihsaLD",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!R9FUUO3dX0ihsaLD"
 }

@@ -9,7 +9,7 @@
       "value": "<p>You have discovered the greatest secrets of life and death. You gain an additional 10th-rank spell slot.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "mortem-ultimatum",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": "Item.nFtGZ3O85f18jq3b",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!nFtGZ3O85f18jq3b"
 }

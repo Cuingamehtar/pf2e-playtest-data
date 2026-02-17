@@ -8,7 +8,7 @@
       "value": "<p>You bind the spirit of a hero into your body. You gain a +3 status bonus to attack rolls and saving throws. Whenever you successfully hit a creature with a Strike, create a thrall in a space adjacent to your target that lasts for 1 minute.</p><p>@UUID[Compendium.pf2e-playtest-data.impossible-playtest-effects.Item.MTYxqIqJVzza1Lro]{Spell Effect: Bind Heroic Spirit}</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "bind-heroic-spirit",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -76,9 +76,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!rJ4dm9Vw7KJUKcoE"
 }

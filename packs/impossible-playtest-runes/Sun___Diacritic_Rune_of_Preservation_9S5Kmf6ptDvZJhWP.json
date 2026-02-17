@@ -9,7 +9,7 @@
       "value": "<p><strong>Usage</strong> drawn on a rune</p><hr /><p>This spiraling diacritic channels the magic of a rune outwards, then back to the same location, allowing a rune to reconstitute itself. After the base rune is invoked, the rune automatically Traces itself back upon the same target.</p><hr /><p><strong>Special</strong> You can have only one copy of <em>sun-, diacritic rune of preservation</em> applied at a given time, and once you invoke it, you cannot Etch or Trace it again for 10 minutes.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "sun-diacritic-rune-of-preservation",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -93,9 +93,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!9S5Kmf6ptDvZJhWP"
 }

@@ -9,7 +9,7 @@
       "value": "<p>You practice the lost art of using music to guide the act of carving your runes, singing them into existence as much as crafting them. You can use Performance instead of Crafting when attempting Crafting checks related to runes. Once per minute, you can @UUID[Compendium.pf2e-playtest-data.impossible-playtest-actions.Item.wamCImlN6xwUHzyk]{Trace a Rune} with song alone, removing the need to have a free hand, removing the manipulate trait from Trace Rune, and allowing you to use the 2-action version of Trace Rune as a single action. You don't need to be able to move your hands when Tracing a Rune using song, but you do need to be able to sing in a clear voice.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "rune-singer",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!J3vCYlLl7yvM88fI"
 }

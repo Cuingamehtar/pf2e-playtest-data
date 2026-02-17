@@ -9,7 +9,7 @@
       "value": "<p><strong>Frequency</strong> once per 10 minutes</p><p><strong>Requirements</strong> Consume Thrall</p><hr /><p>You use your thralls to restore yourself. You Consume a Thrall, increasing the range to 30 feet, and regain @Damage[10[healing]] Hit Points. You can destroy up to four more of your thralls in range to increase the healing by 10 per thrall. If you destroy five thralls total, you can also decrease your @UUID[Compendium.pf2e.conditionitems.Item.i3OJZU2nk64Df3xm], @UUID[Compendium.pf2e.conditionitems.Item.MIRkyAjyBeXivMa7], @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL], @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18], or @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg] condition by 1.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "reclaim-power",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -64,9 +64,10 @@
   "_stats": {
     "compendiumSource": "Item.4Abyx6IvMpsvN573",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!4Abyx6IvMpsvN573"
 }

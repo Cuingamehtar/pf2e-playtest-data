@@ -8,7 +8,7 @@
       "value": "<p>You lure in a horde of ravenous zombies by sacrificing a thrall. The area must contain one of your thralls in it. Your thrall is destroyed. The horde's area is difficult terrain, and whenever a creature begins its turn in the horde, it takes 3d4 bludgeoning damage with a basic Fortitude save.</p><p>Once per round on subsequent turns, you can Sustain the spell to move the area up to 10 feet. If you move the area onto one or more of your thralls, you can destroy one thrall it moved onto to increase the size of the area's burst by 5 feet.</p><hr /><p><strong>Heightened (+1)</strong> The damage increases by 1d4.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "zombie-horde",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -103,9 +103,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!doPpr7F3E4c4v9Bt"
 }

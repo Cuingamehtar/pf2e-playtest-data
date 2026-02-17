@@ -9,7 +9,7 @@
       "value": "<p>Using ancient scripts, you carve a question into bone before casting it into fire, where it cracks. This minor ritual takes 10 minutes. By interpreting the cracks, you can gain the effects of @UUID[Compendium.pf2e.spells-srd.Item.41TZEjhO6D1nWw2X], related to the question carved on the bone.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "read-the-bones",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -62,9 +62,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!GJkhlGmlmAn85d2b"
 }

@@ -9,7 +9,7 @@
       "value": "<p>You've dedicated yourself to learning the intricacies of your weapons. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to expert.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "smiths-weapon-expertise",
     "_migration": {
       "version": 0.935,
       "lastMigration": null
@@ -68,9 +68,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!7t0iCtb09Sd9huqf"
 }

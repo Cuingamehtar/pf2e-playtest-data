@@ -8,7 +8,7 @@
       "value": "<p>You transform a thrall into layers of thick muscle that wrap around you or an ally. The thrall is split into pieces and flung toward a willing creature within 15 feet of it, destroying the thrall and granting that creature 10 temporary Hit Points. The creature gains a +1 status bonus to Athletics checks until the spell ends. The spell ends if all the temporary Hit Points are gone.</p><p>@UUID[Compendium.pf2e-playtest-data.impossible-playtest-effects.Item.mljgz6sVLCA85okJ]{Spell Effect: Muscle Barrier}</p><hr /><p><strong>Heightened (+1)</strong> The temporary Hit Points increase by 10.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "muscle-barrier",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -76,9 +76,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!OKHzvgfvdR3qqiqR"
 }

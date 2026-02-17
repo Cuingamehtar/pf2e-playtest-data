@@ -9,7 +9,7 @@
       "value": "<p><strong>Usage</strong> drawn on a shield</p><hr /><p>This rune resembles a broken arrow. While the shield is raised, it also grants the bearer a +1 status bonus to AC against physical ranged attacks.</p><p>@UUID[Compendium.pf2e-playtest-data.impossible-playtest-effects.Item.janzhnKlCAeVkYHk]{Effect: Oljinex, Rune of Cowards' Bane}</p><p><strong>Invocation</strong> (illusion, mental, visual) The rune creates an illusion in the minds of all creatures adjacent to the rune-bearer that lasts for 1 round. The illusion is of a large impassable wall blocking all paths away from the rune-bearer. Creatures affected by this invocation can't willing move further away from the rune bearer for 1 round or until they disbelieve the illusion, usually by using a @UUID[Compendium.pf2e.actionspf2e.Item.BlAOM2X92SI6HMtJ]{Seek} action against your class DC.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "oljinex-rune-of-cowards-bane",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -92,9 +92,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!Q4INkfHzqn6tm4LM"
 }

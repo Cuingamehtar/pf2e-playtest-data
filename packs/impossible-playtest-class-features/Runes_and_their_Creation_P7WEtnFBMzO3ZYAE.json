@@ -18,7 +18,7 @@
         "uuid": "Compendium.pf2e-playtest-data.impossible-playtest-actions.Item.ozrq9hAuigjzwe9C"
       }
     ],
-    "slug": null,
+    "slug": "runes-and-their-creation",
     "_migration": {
       "version": 0.935,
       "lastMigration": null
@@ -64,9 +64,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!P7WEtnFBMzO3ZYAE"
 }

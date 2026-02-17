@@ -9,7 +9,7 @@
       "value": "<p>You can bind power into arrows or sling stones to transform them into explosive missiles. During your daily preparations, you can lay power-containing inscriptions upon 2 pieces of ammunition to transform them into @UUID[Compendium.pf2e.equipment-srd.Item.rKknk8odXDBpON5l]. The DC of the explosive ammunition is equal to your class DC. The bindings on the power are unstable and the ammunition burns itself to ash by your next daily preparations if not used, and so the ammunition has no value if sold.</p><p>At 14th level, you create @UUID[Compendium.pf2e.equipment-srd.Item.g27kK39Nzqphl1Tb] instead.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "overloaded-ammunition",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!adB4yOyOjbWsIS1v"
 }

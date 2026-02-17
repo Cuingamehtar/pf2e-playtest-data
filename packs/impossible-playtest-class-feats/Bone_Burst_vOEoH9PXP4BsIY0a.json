@@ -9,7 +9,7 @@
       "value": "<p><strong>Trigger</strong> A creature adjacent to one of your thralls uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using, and you are within 60 feet of the thrall.</p><hr /><p>You destroy the thrall in an explosion of bone shards directed toward the triggering creature, dealing @Damage[(ternary(gte(@actor.level,18),4,ternary(gte(@actor.level,12),3,2))d10)[piercing]] damage with a @Check[reflex|against:class-spell|basic] save. This damage increases to 3d10 at 12th level and to 4d10 at 18th level.</p><hr /><p><em>Note: A DC was not provided for this ability by Paizo. Here we have used the better of your class or spell DC.</em></p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "bone-burst",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": "Item.vOEoH9PXP4BsIY0a",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!vOEoH9PXP4BsIY0a"
 }

@@ -9,7 +9,7 @@
       "value": "<p>Your connection to life and death allows you to sense the life force of a creature with a glance. You gain imprecise lifesense with a range of 30 feet. This sense allows you to detect living and undead creatures within range. Additionally, you know the current Hit Points and temporary Hit Points of any living or undead creature you can see within 30 feet.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "lifesense",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -68,9 +68,10 @@
   "_stats": {
     "compendiumSource": "Item.t06IJBsTUaM6nQPI",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!t06IJBsTUaM6nQPI"
 }

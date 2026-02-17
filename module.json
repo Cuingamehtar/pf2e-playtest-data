@@ -3,12 +3,23 @@
     "title": "PF2e Playtest Data",
     "description": "Extra compendia supporting official playtesting in the PF2e system on Foundry VTT",
     "version": "dev",
+    "media": [
+        {
+            "type": "setup",
+            "caption": "Battlezoo Year of Mysteries",
+            "thumbnail": "modules/pf2e-playtest-data/assets/thumbnail.webp",
+            "loop": false,
+            "flags": {}
+        }
+    ],
     "flags": {
         "pf2e-playtest-data": {
             "pf2e-homebrew": {
                 "classTraits": {
+                    "daredevil": "PFPT.Trait.Daredevil",
                     "necromancer": "PFPT.Trait.Necromancer",
-                    "runesmith": "PFPT.Trait.Runesmith"
+                    "runesmith": "PFPT.Trait.Runesmith",
+                    "slayer": "PFPT.Trait.Slayer"
                 },
                 "equipmentTraits": {
                     "diacritic": {
@@ -24,12 +35,22 @@
                     "runesmith": "PFPT.Trait.Runesmith"
                 },
                 "featTraits": {
+                    "daredevil": "PFPT.Trait.Daredevil",
                     "invocation": {
                         "label": "PFPT.Trait.Invocation",
                         "description": "PFPT.TraitDescription.Invocation"
                     },
                     "necromancer": "PFPT.Trait.Necromancer",
-                    "runesmith": "PFPT.Trait.Runesmith"
+                    "relentless":  {
+                        "label": "PFPT.Trait.Relentless",
+                        "description": "PFPT.TraitDescription.Relentless"
+                    },
+                    "risky":  {
+                        "label": "PFPT.Trait.Risky",
+                        "description": "PFPT.TraitDescription.Risky"
+                    },
+                    "runesmith": "PFPT.Trait.Runesmith",
+                    "slayer": "PFPT.Trait.Slayer"
                 },
                 "spellTraits": {
                     "grave": "PFPT.Trait.Grave",
@@ -123,6 +144,66 @@
             "type": "Actor",
             "private": false,
             "flags": {}
+        },
+        {
+            "label": "Actions",
+            "name": "rr-playtest-actions",
+            "path": "packs/rr-playtest-actions",
+            "system": "pf2e",
+            "type": "Item",
+            "banner": "modules/pf2e-playtest-data/assets/tiles/tile-00.webp",
+            "private": false,
+            "flags": {}
+        },
+        {
+            "label": "Classes",
+            "name": "rr-playtest-classes",
+            "path": "packs/rr-playtest-classes",
+            "system": "pf2e",
+            "type": "Item",
+            "banner": "modules/pf2e-playtest-data/assets/tiles/tile-01.webp",
+            "private": false,
+            "flags": {}
+        },
+        {
+            "label": "Class Features",
+            "name": "rr-playtest-class-features",
+            "path": "packs/rr-playtest-class-features",
+            "system": "pf2e",
+            "type": "Item",
+            "banner": "modules/pf2e-playtest-data/assets/tiles/tile-02.webp",
+            "private": false,
+            "flags": {}
+        },
+        {
+            "label": "Effects",
+            "name": "rr-playtest-effects",
+            "path": "packs/rr-playtest-effects",
+            "system": "pf2e",
+            "type": "Item",
+            "banner": "modules/pf2e-playtest-data/assets/tiles/tile-03.webp",
+            "private": false,
+            "flags": {}
+        },
+        {
+            "label": "Feats",
+            "name": "rr-playtest-class-feats",
+            "path": "packs/rr-playtest-class-feats",
+            "system": "pf2e",
+            "type": "Item",
+            "banner": "modules/pf2e-playtest-data/assets/tiles/tile-04.webp",
+            "private": false,
+            "flags": {}
+        },
+        {
+            "label": "Journals",
+            "name": "rr-playtest-journals",
+            "path": "packs/rr-playtest-journals",
+            "system": "pf2e",
+            "type": "JournalEntry",
+            "banner": "modules/pf2e-playtest-data/assets/tiles/tile-05.webp",
+            "private": false,
+            "flags": {}
         }
     ],
     "esmodules": [],
@@ -140,6 +221,18 @@
                 "impossible-playtest-runes",
                 "impossible-playtest-journals",
                 "impossible-playtest-thralls"
+            ]
+        },
+        {
+            "name": "R&R Playtest",
+            "sorting": "m",
+            "packs": [
+                "rr-playtest-actions",
+                "rr-playtest-classes",
+                "rr-playtest-class-features",
+                "rr-playtest-effects",
+                "rr-playtest-class-feats",
+                "rr-playtest-journals"
             ]
         }
     ],
@@ -161,8 +254,8 @@
                 "id": "pf2e",
                 "type": "system",
                 "compatibility": {
-                    "minimum": "7.3",
-                    "verified": "7.3"
+                    "minimum": "7.9",
+                    "verified": "7.9"
                 }
             }
         ]
@@ -176,6 +269,6 @@
     ],
     "compatibility": {
         "minimum": "13",
-        "verified": "13"
+        "verified": "13.351"
     }
 }

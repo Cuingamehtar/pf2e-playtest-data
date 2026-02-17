@@ -8,7 +8,7 @@
       "value": "<p>You shape a thrall into a spear of jagged bone. Destroy one of your thralls, then make a melee spell attack roll against the AC of each creature in a 15-foot line from where the thrall was. The spear deals 1d8 piercing damage (or double damage on a critical hit). This spell counts as two attacks toward your multiple attack penalty, but the penalty doesn't increase until you've made all the attacks.</p><hr /><p><strong>Heightened (+1)</strong> The damage increases by 2d8.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "bone-spear",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -99,9 +99,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!FGDFxBXb1oORyr6p"
 }

@@ -8,7 +8,7 @@
       "value": "<p>You overload one of your thralls with void energy, causing it to explode. All creatures within a 10-foot emanation of the thrall take 1d12 void damage with a basic Reflex save. This destroys the thrall.</p><hr /><p><strong>Heightened (+1)</strong> The damage increases by 1d12.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "necrotic-bomb",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -104,9 +104,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!Wn6Tz08BoxZAwMzU"
 }

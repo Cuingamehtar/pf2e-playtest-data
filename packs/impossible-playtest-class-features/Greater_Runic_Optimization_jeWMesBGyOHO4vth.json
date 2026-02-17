@@ -18,7 +18,7 @@
         "value": 2
       }
     ],
-    "slug": null,
+    "slug": "greater-runic-optimization",
     "_migration": {
       "version": 0.935,
       "lastMigration": null
@@ -64,9 +64,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!jeWMesBGyOHO4vth"
 }

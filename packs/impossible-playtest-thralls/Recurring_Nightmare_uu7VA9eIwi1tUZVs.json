@@ -27,7 +27,6 @@
       "tint": "#ffffff",
       "alphaThreshold": 0.75
     },
-    "hexagonalShape": 0,
     "lockRotation": false,
     "rotation": 0,
     "alpha": 1,
@@ -90,7 +89,14 @@
         "texture": "modules/pf2e-playtest-data/assets/subjects/necromancer_thrall_02.webp"
       }
     },
-    "randomImg": false
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
   },
   "name": "Recurring Nightmare",
   "type": "npc",
@@ -107,6 +113,13 @@
         "max": 1,
         "details": ""
       },
+      "ac": {
+        "value": 0,
+        "details": ""
+      },
+      "allSaves": {
+        "value": ""
+      },
       "speed": {
         "value": 0,
         "otherSpeeds": [
@@ -116,13 +129,6 @@
           }
         ],
         "details": ""
-      },
-      "ac": {
-        "value": 0,
-        "details": ""
-      },
-      "allSaves": {
-        "value": ""
       },
       "immunities": [
         {
@@ -284,9 +290,10 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.351",
         "systemId": "pf2e",
-        "systemVersion": "6.8.1"
+        "systemVersion": "6.8.1",
+        "exportSource": null
       },
       "_key": "!actors.items!uu7VA9eIwi1tUZVs.YWrK36KFQZp3cKYU"
     },
@@ -340,9 +347,10 @@
       "_stats": {
         "compendiumSource": "Actor.v8TB6wZAXx90fHu7.Item.JbFXW4ACd8AyV07N",
         "duplicateSource": "Actor.v8TB6wZAXx90fHu7.Item.JbFXW4ACd8AyV07N",
-        "coreVersion": "12.331",
+        "coreVersion": "13.351",
         "systemId": "pf2e",
-        "systemVersion": "6.7.2"
+        "systemVersion": "6.7.2",
+        "exportSource": null
       },
       "_key": "!actors.items!uu7VA9eIwi1tUZVs.JbFXW4ACd8AyV07N"
     },
@@ -396,9 +404,10 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.351",
         "systemId": "pf2e",
-        "systemVersion": "6.7.2"
+        "systemVersion": "6.7.2",
+        "exportSource": null
       },
       "_key": "!actors.items!uu7VA9eIwi1tUZVs.UK9yU9tur4MNhB5V"
     }
@@ -408,9 +417,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "6.7.2",
+    "exportSource": null
   },
   "_id": "uu7VA9eIwi1tUZVs",
   "sort": 200000,

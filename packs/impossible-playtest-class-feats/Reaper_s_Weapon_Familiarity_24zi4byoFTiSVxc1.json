@@ -40,7 +40,7 @@
         "slug": "advanced-reapers-weapons"
       }
     ],
-    "slug": null,
+    "slug": "reapers-weapon-familiarity",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -91,9 +91,10 @@
   "_stats": {
     "compendiumSource": "Item.24zi4byoFTiSVxc1",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!24zi4byoFTiSVxc1"
 }

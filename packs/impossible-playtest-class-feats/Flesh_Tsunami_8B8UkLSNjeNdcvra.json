@@ -9,7 +9,7 @@
       "value": "<p>You unleash a wave of melted flesh. You learn the @UUID[Compendium.pf2e-playtest-data.impossible-playtest-spells.Item.W7fQUSj8D51Q0n1l] grave spell.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "flesh-tsunami",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": "Item.8B8UkLSNjeNdcvra",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!8B8UkLSNjeNdcvra"
 }

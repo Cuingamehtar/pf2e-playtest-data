@@ -9,7 +9,7 @@
       "value": "<p><strong>Requirements</strong> Your last action was a successful melee Strike that dealt physical damage.</p><hr /><p>After striking the target, you run a brush or finger along your weapon to collect a bit of its blood. For the next minute, when you @UUID[Compendium.pf2e-playtest-data.impossible-playtest-actions.Item.wamCImlN6xwUHzyk]{Trace a Rune} and the target is that creature, you can do so at a range of 60 feet as a single action. Using Drawn in Red against a different creature requires you to wipe off or otherwise discard the blood used for the previous creature, which you can do as a free action.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "drawn-in-red",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!0lfsk24cBL8q1qbR"
 }

@@ -9,7 +9,7 @@
       "value": "<p><strong>Usage</strong> drawn on a creature or object</p><hr /><p>This rune is often placed on a stone in a hearth to ensure a fire does not go out in the night, its power enabling even stone to burn. The bearer's fire resistance, if any, is reduced by 6. Its immunities are unaffected.</p><p><strong>Invocation</strong> The bearer takes @Damage[(2*(ceil(@actor.level / 2)))d6[fire]] damage, with a @Check[fortitude|basic|against:runesmith] save; on a critical failure, they are @UUID[Compendium.pf2e.conditionitems.Item.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round.</p><hr /><p><strong>Level (+2)</strong> The reduction in fire resistance increases by 1, and the damage of the invocation increases by 2d6.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "atryl-rune-of-fire",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -93,9 +93,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!Lfqa0rjjccvUNaey"
 }

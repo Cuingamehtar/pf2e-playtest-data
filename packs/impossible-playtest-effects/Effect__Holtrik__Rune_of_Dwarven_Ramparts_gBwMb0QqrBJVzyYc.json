@@ -27,7 +27,7 @@
         "value": 1
       }
     ],
-    "slug": null,
+    "slug": "effect-holtrik-rune-of-dwarven-ramparts",
     "_migration": {
       "version": 0.935,
       "lastMigration": null
@@ -72,9 +72,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_id": "gBwMb0QqrBJVzyYc",
   "sort": 200000,

@@ -9,7 +9,7 @@
       "value": "<p>You call forth a lumbering mass of fleshy limbs. You learn the @UUID[Compendium.pf2e-playtest-data.impossible-playtest-spells.Item.OOmk0XI3lzhn42JT] grave spell.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "conglomerate-of-limbs",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": "Item.l3HZ2JuHWJRbZqfk",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!l3HZ2JuHWJRbZqfk"
 }

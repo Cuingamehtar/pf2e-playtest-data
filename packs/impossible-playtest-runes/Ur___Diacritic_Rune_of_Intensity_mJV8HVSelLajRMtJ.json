@@ -9,7 +9,7 @@
       "value": "<p><strong>Usage</strong> drawn on a rune that deals damage</p><hr /><p>This diacritic accentuates the base rune with bolder lines to give greater weight to its effects. When the base rune is invoked, its invocation gains a status bonus to damage equal to your Intelligence modifier.</p><p>@UUID[Compendium.pf2e-playtest-data.impossible-playtest-effects.Item.MXgAIqOq9toR0qmc]{Effect: Ur-, Diacritic Rune of Intensity}</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "ur-diacritic-rune-of-intensity",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -93,9 +93,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!mJV8HVSelLajRMtJ"
 }

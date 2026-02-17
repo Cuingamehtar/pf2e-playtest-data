@@ -9,7 +9,7 @@
       "value": "<p>Your understanding of your body on an anatomical level allows you to re-harness your necrotic power, using your body as a source. Whenever you Refocus, completely refill your focus pool.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "necrotic-focus",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -60,9 +60,10 @@
   "_stats": {
     "compendiumSource": "Item.GbVY1Udf7wzvBLJS",
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!GbVY1Udf7wzvBLJS"
 }

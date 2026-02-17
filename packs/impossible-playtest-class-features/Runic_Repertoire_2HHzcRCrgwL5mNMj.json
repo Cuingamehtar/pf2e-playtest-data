@@ -9,7 +9,7 @@
       "value": "<p>The collection of runes that you know is called your runic repertoire. At 1st level, you learn 4 runes of your choice. You choose these from the common runes on the rune list as well as uncommon or rarer runes you have access to.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "runic-repertoire",
     "_migration": {
       "version": 0.935,
       "lastMigration": null
@@ -55,9 +55,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!2HHzcRCrgwL5mNMj"
 }

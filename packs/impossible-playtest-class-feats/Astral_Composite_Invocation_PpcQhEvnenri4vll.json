@@ -9,7 +9,7 @@
       "value": "<p><strong>Frequency</strong> once per 10 minutes</p><hr /><p>Invoking runes from two schools of magic that both manipulate the intangible realm of thought results in waves of mental interference that stagger your foes. You invoke two runes of your choice on a single creature; one must be an arcane rune, and one must be an occult rune. in addition to the runes' normal effects, the creature also must attempt a @Check[will|against:runesmith] saving throw.</p><p><strong>Success</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 1} until the start of your next turn.</p><p><strong>Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 2} for 1 minute.</p><p><strong>Critical Failure</strong> The target is @UUID[Compendium.pf2e.conditionitems.Item.e1XGnhKNSQIm5IXg]{Stupefied 3} for 1 minute.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "astral-composite-invocation",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -66,9 +66,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!PpcQhEvnenri4vll"
 }

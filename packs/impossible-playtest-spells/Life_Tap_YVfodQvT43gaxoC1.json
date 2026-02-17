@@ -8,7 +8,7 @@
       "value": "<p>Using a thrall as a vessel, you attempt to drain the essence of a creature and use it for yourself. The target thrall Strides up to 30 feet, then one creature of your choice adjacent to it must attempt a Fortitude saving throw. The targeted thrall is then destroyed.</p><hr /><p><strong>Critical Success</strong> The target is unaffected.</p><p><strong>Success</strong> The creature is @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 1}, but recovers after 1 minute. You or an ally of your choice within 30 feet of the thrall regain Hit Points equal to the amount the creature lost by becoming drained.</p><p><strong>Failure</strong> As success, but @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 2}.</p><p><strong>Critical Failure</strong> As success, but @UUID[Compendium.pf2e.conditionitems.Item.4D2KBtexWXa6oUMR]{Drained 3}.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "life-tap",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -81,9 +81,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!YVfodQvT43gaxoC1"
 }

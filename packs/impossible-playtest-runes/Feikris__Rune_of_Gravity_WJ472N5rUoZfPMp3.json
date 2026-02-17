@@ -9,7 +9,7 @@
       "value": "<p><strong>Usage</strong> drawn on a creature or armor</p><hr /><p>The lines of this rune overlap strangely, making it seem larger than it really is. The rune-bearer gains a +2 item bonus to Athletics checks and gains the benefits of the @UUID[Compendium.pf2e.feats-srd.Item.KxaYlC50zzHysJj8]{Titan Wrestler} feat.</p><p>@UUID[Compendium.pf2e-playtest-data.impossible-playtest-effects.Item.s3cil1tttjpA2N7f]{Effect: Feikris, Rune of Gravity}</p><p><strong>Invocation</strong> All creatures in a 15-foot emanation around the rune-bearer must succeed at a @Check[fortitude] save or be pulled 5 feet towards the rune-bearer (or 10 feet on a critical failure).</p><hr /><p><strong>Level (17th)</strong> The item bonus increases to +3.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "feikris-rune-of-gravity",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -93,9 +93,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!WJ472N5rUoZfPMp3"
 }

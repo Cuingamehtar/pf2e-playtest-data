@@ -9,7 +9,7 @@
       "value": "<p>As the gap between your intention and your words becomes almost nothing, you find that you don't need to consciously draw the diacritic marks that would embellish or modify your runes—as you draw a rune, it continues to grow outwards like a living thing, applying the exact accent or stress mark you intended for it to have. Whenever you Etch or Trace a Rune, you can choose to also apply one diacritic rune you know to it, as part of the same action.</p>"
     },
     "rules": [],
-    "slug": null,
+    "slug": "shades-of-meaning",
     "_migration": {
       "version": 0.935,
       "lastMigration": null,
@@ -64,9 +64,10 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.351",
     "systemId": "pf2e",
-    "systemVersion": "6.7.2"
+    "systemVersion": "7.9.1",
+    "exportSource": null
   },
   "_key": "!items!KTuY2E5bw1ra305W"
 }
